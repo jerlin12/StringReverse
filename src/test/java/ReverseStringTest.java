@@ -4,6 +4,6 @@ import org.junit.jupiter.api.Test;
 public class ReverseStringTest {
     @Test
     public void testReverse() {
-        assertEquals("wrong", ReverseString.reverse("SmartShop"));
+        assertEquals("pohStramS", ReverseString.reverse("SmartShop"));
     }
 }
